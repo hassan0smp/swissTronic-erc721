@@ -39,4 +39,4 @@ The script will:
 - The contract address will be saved in `contract.txt`.
 - The transaction hash for the minting process will be printed in the terminal.
 
-- Now visit : [Click Here](https://github.com/hassan0smp/SwissTronik-ERC20/blob/main/upload-to-github.md) to upload these codes in your github repository
+- Now visit : [Click Here](https://github.com/hassan0smp/swissTronic-erc721/blob/main/upload-to-github.md) to upload these codes in your github repository
